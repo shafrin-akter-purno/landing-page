@@ -1,0 +1,189 @@
+@media only screen and (max-width: 600px){
+    .container{
+        width: 100%;
+        padding: 0px 20px;
+    }
+    .col-s-1 {
+        width: 8.33%;
+        float: left;
+    }
+    .col-s-2 {
+        width: 16.66%;
+        float: left;
+    }
+    .col-s-3 {
+        width: 25%;
+        float: left;
+    }
+    .col-s-4 {
+        width: 33.33%;
+        float: left;
+    }
+    .col-s-5 {
+        width: 41.66%;
+        float: left;
+    }
+    .col-s-6 {
+        width: 50%;
+        float: left;
+    }
+    .col-s-7 {
+        width: 58.33%;
+        float: left;
+    }
+    .col-s-8 {
+        width: 66.66%;
+        float: left;
+    }
+    
+    .col-s-9 {
+        width: 75%;
+        float: left;
+    }
+    
+    .col-s-10 {
+        width: 83.33%;
+        float: left;
+    }
+    .col-s-11 {
+        width: 91.66%;
+        float: left;
+    }
+    .col-s-12 {
+        width: 100%;
+        float: left;
+    }
+    /* headr-part */
+    header{
+        text-align: center;
+    }
+    .logo{
+        text-align: center;
+    }
+    .menu-part ul{
+        text-align: center;
+        margin-top: 15px;
+
+    }
+    .menu-part li a{
+        font-size: 15px;
+    }
+   .hero-part{
+    padding: 30px 0px;
+   } 
+   .hero-part h1{
+    font-size: 25px;
+    line-height: 30px;
+    width: 100%;
+   }
+   .hero-part button{
+    padding: 5px 13px;
+    font-size: 13px;
+    margin-top: 20px;
+   }
+   /* service part */
+   #service{
+    text-align: center;
+    padding: 10px;
+   }
+ .service-box p{
+    font-size: 18px;
+    
+  }
+ .service-box img{
+    max-height: 138px;
+    padding-top: 25px;
+    
+  }
+   .writing-part p{
+    font-size: 20px;
+    line-height: 25px;
+    font-weight:200px;
+   }
+   .global-box p{
+    font-size: 30px;
+   }
+   h3{
+    font-size: 18px;
+   }
+   h4{
+    font-size: 17px;
+   }
+   /* team sectoin */
+   #team{
+    text-align: center;
+    
+
+   }
+   .global-box p{
+    font-size: 18px;
+   }
+
+   .social-icon i{
+     margin-top: 20px;
+     margin-bottom: 25px;
+  }
+  /* #portfolio */
+  #portfolio{
+    text-align: center;
+    width: 100%;
+  }
+  .portfolio-box img{
+    width: 150px;
+    margin-top: 85px;
+
+ }
+ .portfolio-box-part button{
+    
+    padding: 10px 12px;
+    font-size: 13px;
+ }
+ .portfolio-box p{
+    font-size: 13px;
+ }
+ /* about-section */
+ #about{
+   text-align: center;
+   width: 100%;
+ }
+ .about-writing {
+    font-size: 10px;
+    padding-left: 10px;
+ }
+
+ .about-writing h6{
+    color: #ffcc99;
+    margin-bottom: 60px;
+ }
+ .about-img img{
+    max-width: 60%;
+    margin-left: 40px;
+   
+ }
+
+ /* form-section */
+ #form{
+    text-align: center;
+    width: 100%;
+ }
+
+ .form-button button{
+    width: 35%;
+ }
+ li a{
+    font-size: 13px;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    padding: 0px 5px;
+
+
+}
+}
+
+
+
+
+
+

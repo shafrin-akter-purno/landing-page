@@ -1,0 +1,153 @@
+@media (min-width: 601px) And (max-width: 991px){
+    .col-m-1 {
+        width: 8.33%;
+        oflat: left;
+    }
+    .col-m-2 {
+        width: 16.66%;
+        oflat: left;
+    }
+    .col-m-3 {
+        width: 25%;
+        oflat: left;
+    }
+    .col-m-4 {
+        width: 33.33%;
+        oflat: left;
+    }
+    .col-m-5 {
+        width: 41.66%;
+        oflat: left;
+    }
+    .col-m-6 {
+        width: 50%;
+        oflat: left;
+    }
+    .col-m-7 {
+        width: 58.33%;
+        oflat: left;
+    }
+    .col-m-8 {
+        width: 66.66%;
+        oflat: left;
+    }
+    
+    .col-m-9 {
+        width: 75%;
+        oflat: left;
+    }
+    
+    .col-m-10 {
+        width: 83.33%;
+        oflat: left;
+    }
+    .col-m-11 {
+        width: 91.66%;
+        oflat: left;
+    }
+    .col-m-12 {
+        width: 100%;
+        oflat: left;
+    }
+    /* header-part */
+    header{
+        text-align: center;
+    }
+    .logo{
+        text-align: center;
+    }
+    .menu-part ul{
+        text-align: center;
+        margin-top: 15px;
+
+    }
+    .hero-part{
+        padding: 50px 0px;
+       } 
+       .hero-part h1{
+        font-size: 25px;
+        line-height: 30px;
+        width: 100%;
+       }
+       .hero-part button{
+        padding: 5px 13px;
+        font-size: 13px;
+        margin-top: 20px;
+       }
+       /* service part */
+   #service{
+    text-align: center;
+    padding: 20px;
+   }
+   .service-box img{
+    max-height: 90px;
+   }
+   .writing-part p{
+    font-size: 20px;
+    line-height: 25px;
+    font-weight:200px;
+   }
+   .global-box img{
+    max-height: 150px;
+   }
+   h3{
+    font-size: 15px;
+   }
+   .global-box p{
+    font-size: 15px;
+    
+   }
+   /* team-section */
+   h4{
+    font-size: 13px;
+   }
+   .social-icon i{
+    margin-top: 20px;
+    margin-bottom: 25px;
+ }
+ .portfolio-box img{
+    width: 250px;
+    margin-top: 85px;
+
+}
+
+#about{
+    text-align: center;
+    width: 100%;
+  }
+  .about-writing {
+     font-size: 15px;
+     padding-left: 10px;
+  }
+ 
+  .about-writing h6{
+     color: #ffcc99;
+     margin-bottom: 60px;
+  }
+  .about-img img{
+     max-width: 60%;
+    
+     margin-left: 40px;
+    
+  }
+/* form-section */
+  #form{
+    text-align: center;
+    width: 100%;
+ }
+
+ .form-button button{
+    width: 35%;
+ }
+ li a{
+    font-size: 18px;
+ }
+ li{
+    list-style: none;
+    display: inline-block;
+    padding: 0px 5px;
+
+
+ }
+
+}
